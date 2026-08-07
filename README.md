@@ -14,7 +14,8 @@ EDP_liecrew/
 │   ├── B_frog2.py            # B - Frog 2
 │   ├── C_vacation.py         # C - Vacation
 │   ├── D_knapsack1.py        # D - Knapsack 1
-│   └── E_knapsack2.py        # E - Knapsack 2
+│   ├── E_knapsack2.py        # E - Knapsack 2
+│   └── G_longestpath.py      # G - Longest Path
 ├── requirements.txt
 └── README.md
 ```
