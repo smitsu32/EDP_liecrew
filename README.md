@@ -9,12 +9,17 @@
 
 ```
 EDP_liecrew/
-├── myans_py/                # 解答ファイル格納フォルダ
-├── main.py                 # 解答ファイル
-├── main2.py                # 解答ファイル
+├── solutions/                # 解答ファイル格納フォルダ
+│   ├── A_frog1.py            # A - Frog 1
+│   ├── B_frog2.py            # B - Frog 2
+│   ├── C_vacation.py         # C - Vacation
+│   ├── D_knapsack1.py        # D - Knapsack 1
+│   └── E_knapsack2.py        # E - Knapsack 2
 ├── requirements.txt
 └── README.md
 ```
+
+※ main.py / main2.py はローカルの作業用スクラッチファイル(.gitignore対象)です。
 
 ## リンク
 
