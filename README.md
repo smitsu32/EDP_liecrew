@@ -14,7 +14,7 @@ EDP_liecrew/
 └── README.md
 ```
 
-※ main.py / main2.py はローカルの作業用スクラッチファイル(.gitignore対象)です。
+※ スニペットやmain.pyは同梱されていません。
 
 ## リンク
 
